@@ -1,4 +1,4 @@
-Project: Adolescent Depression Monitoring System
+Project: Adolescent Depression Monitoring System -->
 
 Engineered proprietary monitoring system with STM32 microcontroller to detect depressive behaviors in adolescents
 Integrated motion and light sensors for real-time analysis of behavioral and environmental data to enable proactive responses
